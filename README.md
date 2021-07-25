@@ -11,6 +11,7 @@
 [<img align="left" alt="FURKANSUNGER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FURKANSUNGER | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 ### Technologies I use
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
@@ -21,10 +22,10 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
 
 
-<summary>:bulb: Github Stats</summary>
+### :bulb: Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=FurkanSunger&theme=radical" >
 
-<summary>:bulb:  Most Used Languages</summary>
+### :bulb:  Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSunger&layout=compact" >
 
 [twitter]: https://twitter.com/furkan_sunger
