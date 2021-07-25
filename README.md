@@ -2,6 +2,7 @@
 
 ## I'm a Frontend Developer, Managment Information Systems Student
 
+- Some Coffee ☕ lots of < code />
 - 🔭 I’m currently working on React
 
 ### Connect with me
@@ -23,10 +24,10 @@
 <br /><br />
 
 ### :bulb: Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=FurkanSunger&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=FurkanSunger&theme=dark&show_icons=true" >
 
 ### :bulb:  Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSunger&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSunger&layout=compact&theme=dark" >
 
 [twitter]: https://twitter.com/furkan_sunger
 [youtube]: https://www.youtube.com/channel/UCTVgT2ef5OZgI7a5rIQGOWQ
