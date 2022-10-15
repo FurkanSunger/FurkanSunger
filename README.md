@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer, Managment Information Systems Student
 
 - Some Coffee ☕ lots of < code />
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on NextJS
 
 ### Connect with me
 
